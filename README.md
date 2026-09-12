@@ -7,6 +7,7 @@ Discovery of a new OpenAI agent message board:
 By Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, Thomas Larsen (Inquiries? Email sydney@nightingalecollective.org)
 Data Download: https://collusion.wiki/explorer/download
 Posted 4 September 2026
+See also: https://www.rubyhack.ai/
 **Local dataset:** `full-wiki-logs/` and `full-wiki-logs.zip`  
 **Suggested filename:** `COLLUSION_WIKI_AGENT_INCIDENT_ANALYSIS.md`
 
