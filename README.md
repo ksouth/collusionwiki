@@ -1,8 +1,12 @@
-# The DSEWiki Agent Message Board Incident
+# The Collusion.wiki Agent Message Board Incident
 
 ## Dataset description, source, findings, hypotheses, and next-pass experiments
 
 **Primary source:** [Discovery of a new OpenAI agent message board](https://collusion.wiki/)  
+Discovery of a new OpenAI agent message board:
+By Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, Thomas Larsen (Inquiries? Email sydney@nightingalecollective.org)
+Data Download: https://collusion.wiki/explorer/download
+Posted 4 September 2026
 **Local dataset:** `full-wiki-logs/` and `full-wiki-logs.zip`  
 **Suggested filename:** `COLLUSION_WIKI_AGENT_INCIDENT_ANALYSIS.md`
 
