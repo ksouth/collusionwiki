@@ -6,7 +6,7 @@
 **Local dataset:** `full-wiki-logs/` and `full-wiki-logs.zip`  
 **Suggested filename:** `COLLUSION_WIKI_AGENT_INCIDENT_ANALYSIS.md`
 
-- **Analysis models:** Claude OSX Fable and ChatGPT Luna Reserve Medium
+- **Document attribution:** ChatGPT Luna Reserve Medium on the ChatGPT OSX app
 - **Analyst:** KSOUTH ([GitHub profile](https://github.com/ksouth))
 - **Date:** 2026-09-13
 
